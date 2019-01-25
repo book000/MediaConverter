@@ -6,3 +6,7 @@ ffmpegを使って、GUIでファイルの形式変換ができます。
 ## Download
 
 [Releases](https://github.com/book000/MediaConverter/releases)
+
+## Usage
+
+[Wiki](https://github.com/book000/MediaConverter/wiki)
